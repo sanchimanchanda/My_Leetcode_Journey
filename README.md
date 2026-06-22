@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0287-find-the-duplicate-number) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
 |  |
@@ -24,8 +25,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0031-next-permutation) |
+| [0287-find-the-duplicate-number](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
