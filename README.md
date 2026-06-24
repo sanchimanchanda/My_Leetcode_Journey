@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0287-find-the-duplicate-number) |
@@ -30,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0268-missing-number) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 ## Binary Search
