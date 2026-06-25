@@ -1,16 +1,36 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        stringstream ss(s);
-        string token = "";
-
-        string result = "";
-        //By default stringstream tokenizes on ' ' (space character)
+          int n = s.length();
+       //1. reverse whole string
         
-        while(ss >> token) {
-            result = token + " " + result;
-        }
+        reverse(s.begin(), s.end());
 
-        return result.substr(0, result.length()-1);
+        int i = 0;
+        //hero honge hamare l and r jo revrese karenge words ko
+        int l = 0, r = 0; 
+
+
+        while(i < n) {
+            while(i < n && s[i] != ' ') { //i ko agar char dikha to r ko dega and i++ and r++
+                s[r++] = s[i++];
+            }
+            // abh i ko space mil gayya toh r tu reverse kar de word
+            if(l < r) { //l     r
+                reverse(s.begin()+l, s.begin()+r);
+                
+                // r apne pass ek space rakhe ga 
+                s[r] = ' ';
+                r++;
+                
+                l = r;
+            }
+            
+            i++; //y eto badhta rahega
+        }
+        
+        s = s.substr(0 , r-1);
+        
+        return s;
     }
 };
