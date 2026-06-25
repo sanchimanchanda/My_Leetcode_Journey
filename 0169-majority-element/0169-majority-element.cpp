@@ -1,16 +1,17 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int cnt = 1 ; 
-        int major_element = nums[0];
+        int cnt = 0 ; 
+        int major_element = NULL;
         int n = nums.size();
 
-        for(int i = 1 ; i < n ; i++ ){
-            if(cnt == 0 ){
-                major_element = nums[i];
-            }
-            if(major_element == nums[i]){
+        for(int i = 0 ; i < n ; i++ ){
+            if(major_element == nums[i] ){
                 cnt++;
+            }
+            else if(cnt == 0){
+                major_element = nums[i];
+                cnt=1;
             }else{
                 cnt--;
             }
