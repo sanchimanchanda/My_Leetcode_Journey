@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0074-search-a-2d-matrix) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0242-valid-anagram) |
 | [1903-largest-odd-number-in-string](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1903-largest-odd-number-in-string) |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
