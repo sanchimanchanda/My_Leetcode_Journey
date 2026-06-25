@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0242-valid-anagram) |
+| [1903-largest-odd-number-in-string](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1903-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0229-majority-element-ii) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
