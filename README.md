@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
