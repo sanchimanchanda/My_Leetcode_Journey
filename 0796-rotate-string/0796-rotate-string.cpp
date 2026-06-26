@@ -6,11 +6,8 @@ public:
 
         if(m!=n) return false;
 
-        for(int count = 1 ; count <= m ; count++){
-            rotate(s.begin() ,s.begin() +1 ,s.end());
+        if((s+s).find(goal) != string::npos) return true;
 
-            if(s == goal) return true;
-        }
-        return false;
+        return false; 
     }
 };
