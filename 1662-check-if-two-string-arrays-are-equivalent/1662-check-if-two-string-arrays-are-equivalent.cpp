@@ -12,9 +12,8 @@ public:
             result2 += ch;
         }
 
-        if(result1 == result2){
-            return true;
-        }
-        return false;
+            return result1 == result2;
+        
+        
     }
 };
