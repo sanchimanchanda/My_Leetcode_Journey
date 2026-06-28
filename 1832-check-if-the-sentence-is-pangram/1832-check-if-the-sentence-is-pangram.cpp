@@ -1,19 +1,20 @@
 class Solution {
 public:
     bool checkIfPangram(string sentence) {
-        vector<int>freq(26,0);
+        vector<int> freq(26, 0);
 
         int n = freq.size();
-        for(auto &ch: sentence){
-            freq[ch - 'a']++;
-        }
-
-        for(int i = 0 ; i < n ; i++){
-            if(freq[i] == 0){
-                return false;
-                break;
+        int count = 0;
+        for (auto& ch : sentence) {
+            int idx = ch - 'a';
+            if (freq[idx] == 0) {
+                freq[idx]++;
+                count++;
             }
         }
-        return true;
+        if (count == 26) {
+            return true;
+        }
+        return false;
     }
 };
