@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0038-count-and-say) |
+| [0093-restore-ip-addresses](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0093-restore-ip-addresses) |
 | [0151-reverse-words-in-a-string](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0242-valid-anagram) |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1544-make-the-string-great](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
