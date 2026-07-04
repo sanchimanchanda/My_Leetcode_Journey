@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0287-find-the-duplicate-number) |
+| [0472-concatenated-words](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0472-concatenated-words) |
 | [0944-delete-columns-to-make-sorted](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0944-delete-columns-to-make-sorted) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1929-concatenation-of-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0472-concatenated-words](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0472-concatenated-words) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0472-concatenated-words](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0472-concatenated-words) |
 | [0899-orderly-queue](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0899-orderly-queue) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1657-determine-if-two-strings-are-close) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0472-concatenated-words](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0796-rotate-string) |
 | [0899-orderly-queue](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0899-orderly-queue) |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0014-longest-common-prefix) |
+| [0472-concatenated-words](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0472-concatenated-words) |
 ## String Matching
 |  |
 | ------- |
@@ -158,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0093-restore-ip-addresses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0472-concatenated-words) |
 <!---LeetCode Topics End-->
