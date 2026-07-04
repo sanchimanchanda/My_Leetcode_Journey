@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0451-sort-characters-by-frequency) |
+| [0859-buddy-strings](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0859-buddy-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1657-determine-if-two-strings-are-close) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2965-find-missing-and-repeated-values](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/2965-find-missing-and-repeated-values) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0796-rotate-string) |
+| [0859-buddy-strings](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0859-buddy-strings) |
 | [0899-orderly-queue](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0899-orderly-queue) |
 | [0944-delete-columns-to-make-sorted](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0944-delete-columns-to-make-sorted) |
 | [1544-make-the-string-great](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1544-make-the-string-great) |
