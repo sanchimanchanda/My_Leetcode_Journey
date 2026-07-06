@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0287-find-the-duplicate-number) |
 | [0472-concatenated-words](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0472-concatenated-words) |
 | [0944-delete-columns-to-make-sorted](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0944-delete-columns-to-make-sorted) |
+| [1288-remove-covered-intervals](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1288-remove-covered-intervals) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1929-concatenation-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/2965-find-missing-and-repeated-values) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0472-concatenated-words) |
 | [0899-orderly-queue](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0899-orderly-queue) |
+| [1288-remove-covered-intervals](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1288-remove-covered-intervals) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1657-determine-if-two-strings-are-close) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 ## Binary Search
