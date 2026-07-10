@@ -176,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0472-concatenated-words](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0472-concatenated-words) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
