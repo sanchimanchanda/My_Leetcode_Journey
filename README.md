@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0268-missing-number) |
+| [0382-linked-list-random-node](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0382-linked-list-random-node) |
 | [0899-orderly-queue](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0899-orderly-queue) |
 | [1903-largest-odd-number-in-string](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/2965-find-missing-and-repeated-values) |
@@ -189,6 +190,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0382-linked-list-random-node) |
 | [0876-middle-of-the-linked-list](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
