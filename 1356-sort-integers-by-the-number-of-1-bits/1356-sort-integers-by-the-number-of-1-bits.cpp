@@ -1,9 +1,17 @@
 class Solution {
 public:
+    int count_bits(int nums) {
+        int count = 0;
+        while (nums != 0) {
+            count += (nums & 1);
+            nums >>= 1;
+        }
+        return count;
+    }
     vector<int> sortByBits(vector<int>& arr) {
-        auto lambda = [](int& a, int& b) {
-            int countA = __builtin_popcount(a);
-            int countB = __builtin_popcount(b);
+        auto lambda = [&](int& a, int& b) {
+            int countA = count_bits(a);
+            int countB = count_bits(b);
 
             if (countA == countB) {
                 return a < b;
