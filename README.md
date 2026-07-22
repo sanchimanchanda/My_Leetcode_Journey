@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0382-linked-list-random-node) |
 | [0876-middle-of-the-linked-list](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Reservoir Sampling
 |  |
