@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0231-power-of-two) |
 ## Simulation
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0237-delete-node-in-a-linked-list) |
