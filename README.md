@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0287-find-the-duplicate-number) |
 | [0472-concatenated-words](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0472-concatenated-words) |
+| [0877-stone-game](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0877-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0944-delete-columns-to-make-sorted) |
 | [1288-remove-covered-intervals](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0338-counting-bits) |
 | [0472-concatenated-words](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0472-concatenated-words) |
+| [0877-stone-game](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0268-missing-number) |
 | [0382-linked-list-random-node](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0382-linked-list-random-node) |
+| [0877-stone-game](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0877-stone-game) |
 | [0899-orderly-queue](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0899-orderly-queue) |
 | [1903-largest-odd-number-in-string](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/2965-find-missing-and-repeated-values) |
@@ -232,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0023-merge-k-sorted-lists) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
