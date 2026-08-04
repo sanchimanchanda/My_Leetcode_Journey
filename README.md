@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1929-concatenation-of-array) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2965-find-missing-and-repeated-values](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/2965-find-missing-and-repeated-values) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Math
 |  |
 | ------- |
