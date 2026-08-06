@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-orderly-queue](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0899-orderly-queue) |
 | [1903-largest-odd-number-in-string](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/2965-find-missing-and-repeated-values) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -241,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
