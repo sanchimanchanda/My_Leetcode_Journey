@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0472-concatenated-words](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0472-concatenated-words) |
+| [0938-range-sum-of-bst](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0938-range-sum-of-bst) |
 ## Linked List
 |  |
 | ------- |
@@ -268,4 +269,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0209-minimum-size-subarray-sum) |
+## Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0938-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0938-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
