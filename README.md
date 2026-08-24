@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0268-missing-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0859-buddy-strings](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0859-buddy-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1657-determine-if-two-strings-are-close) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0345-reverse-vowels-of-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0459-repeated-substring-pattern) |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/3345-smallest-divisible-digit-product-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
