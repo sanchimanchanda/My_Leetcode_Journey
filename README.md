@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [1544-make-the-string-great](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0472-concatenated-words](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0472-concatenated-words) |
 | [0938-range-sum-of-bst](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0938-range-sum-of-bst) |
 ## Linked List
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -292,5 +295,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/sanchimanchanda/My_Leetcode_Journey/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
